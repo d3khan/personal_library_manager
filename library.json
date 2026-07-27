@@ -1,20 +1,620 @@
 [
     {
-        "Title": "Koemi",
-        "Author": "Clovis Reyes",
-        "Year": 2018,
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Year": 1960,
+        "Read": true
+    },
+    {
+        "Title": "Go Set a Watchman",
+        "Author": "Harper Lee",
+        "Year": 2015,
+        "Read": true
+    },
+    {
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1925,
+        "Read": true
+    },
+    {
+        "Title": "This Side of Paradise",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1920,
+        "Read": true
+    },
+    {
+        "Title": "The Beautiful and Damned",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1922,
         "Read": false
     },
     {
-        "Title": "Lacrimosa",
-        "Author": "WA Mozart",
-        "Year": 1988,
+        "Title": "Tender Is the Night",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1934,
         "Read": true
     },
     {
-        "Title": "Goals",
-        "Author": "FIFA",
-        "Year": 2026,
+        "Title": "The Last Tycoon",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1941,
+        "Read": false
+    },
+    {
+        "Title": "Flappers and Philosophers",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1920,
         "Read": true
+    },
+    {
+        "Title": "Tales of the Jazz Age",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1922,
+        "Read": true
+    },
+    {
+        "Title": "All the Sad Young Men",
+        "Author": "F. Scott Fitzgerald",
+        "Year": 1926,
+        "Read": true
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Year": 1949,
+        "Read": true
+    },
+    {
+        "Title": "Animal Farm",
+        "Author": "George Orwell",
+        "Year": 1945,
+        "Read": true
+    },
+    {
+        "Title": "Down and Out in Paris and London",
+        "Author": "George Orwell",
+        "Year": 1933,
+        "Read": false
+    },
+    {
+        "Title": "Burmese Days",
+        "Author": "George Orwell",
+        "Year": 1934,
+        "Read": true
+    },
+    {
+        "Title": "A Clergyman's Daughter",
+        "Author": "George Orwell",
+        "Year": 1935,
+        "Read": true
+    },
+    {
+        "Title": "Keep the Aspidistra Flying",
+        "Author": "George Orwell",
+        "Year": 1936,
+        "Read": false
+    },
+    {
+        "Title": "The Road to Wigan Pier",
+        "Author": "George Orwell",
+        "Year": 1937,
+        "Read": true
+    },
+    {
+        "Title": "Homage to Catalonia",
+        "Author": "George Orwell",
+        "Year": 1938,
+        "Read": true
+    },
+    {
+        "Title": "Coming Up for Air",
+        "Author": "George Orwell",
+        "Year": 1939,
+        "Read": true
+    },
+    {
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Year": 1813,
+        "Read": true
+    },
+    {
+        "Title": "Sense and Sensibility",
+        "Author": "Jane Austen",
+        "Year": 1811,
+        "Read": true
+    },
+    {
+        "Title": "Mansfield Park",
+        "Author": "Jane Austen",
+        "Year": 1814,
+        "Read": false
+    },
+    {
+        "Title": "Emma",
+        "Author": "Jane Austen",
+        "Year": 1815,
+        "Read": true
+    },
+    {
+        "Title": "Northanger Abbey",
+        "Author": "Jane Austen",
+        "Year": 1818,
+        "Read": true
+    },
+    {
+        "Title": "Persuasion",
+        "Author": "Jane Austen",
+        "Year": 1818,
+        "Read": true
+    },
+    {
+        "Title": "Lady Susan",
+        "Author": "Jane Austen",
+        "Year": 1871,
+        "Read": false
+    },
+    {
+        "Title": "The Shining",
+        "Author": "Stephen King",
+        "Year": 1977,
+        "Read": true
+    },
+    {
+        "Title": "It",
+        "Author": "Stephen King",
+        "Year": 1986,
+        "Read": true
+    },
+    {
+        "Title": "Carrie",
+        "Author": "Stephen King",
+        "Year": 1974,
+        "Read": false
+    },
+    {
+        "Title": "Misery",
+        "Author": "Stephen King",
+        "Year": 1987,
+        "Read": true
+    },
+    {
+        "Title": "The Stand",
+        "Author": "Stephen King",
+        "Year": 1978,
+        "Read": true
+    },
+    {
+        "Title": "Pet Sematary",
+        "Author": "Stephen King",
+        "Year": 1983,
+        "Read": true
+    },
+    {
+        "Title": "Salem's Lot",
+        "Author": "Stephen King",
+        "Year": 1975,
+        "Read": false
+    },
+    {
+        "Title": "The Green Mile",
+        "Author": "Stephen King",
+        "Year": 1996,
+        "Read": true
+    },
+    {
+        "Title": "The Dark Tower: The Gunslinger",
+        "Author": "Stephen King",
+        "Year": 1982,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Sorcerer's Stone",
+        "Author": "J.K. Rowling",
+        "Year": 1997,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Chamber of Secrets",
+        "Author": "J.K. Rowling",
+        "Year": 1998,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Prisoner of Azkaban",
+        "Author": "J.K. Rowling",
+        "Year": 1999,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Goblet of Fire",
+        "Author": "J.K. Rowling",
+        "Year": 2000,
+        "Read": false
+    },
+    {
+        "Title": "Harry Potter and the Order of the Phoenix",
+        "Author": "J.K. Rowling",
+        "Year": 2003,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Half-Blood Prince",
+        "Author": "J.K. Rowling",
+        "Year": 2005,
+        "Read": true
+    },
+    {
+        "Title": "Harry Potter and the Deathly Hallows",
+        "Author": "J.K. Rowling",
+        "Year": 2007,
+        "Read": true
+    },
+    {
+        "Title": "The Hobbit",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1937,
+        "Read": true
+    },
+    {
+        "Title": "The Fellowship of the Ring",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1954,
+        "Read": true
+    },
+    {
+        "Title": "The Two Towers",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1954,
+        "Read": false
+    },
+    {
+        "Title": "The Return of the King",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1955,
+        "Read": true
+    },
+    {
+        "Title": "The Silmarillion",
+        "Author": "J.R.R. Tolkien",
+        "Year": 1977,
+        "Read": true
+    },
+    {
+        "Title": "The Children of H\u00c3\u00barin",
+        "Author": "J.R.R. Tolkien",
+        "Year": 2007,
+        "Read": false
+    },
+    {
+        "Title": "Beren and L\u00c3\u00bathien",
+        "Author": "J.R.R. Tolkien",
+        "Year": 2017,
+        "Read": true
+    },
+    {
+        "Title": "The Fall of Gondolin",
+        "Author": "J.R.R. Tolkien",
+        "Year": 2018,
+        "Read": true
+    },
+    {
+        "Title": "Murder on the Orient Express",
+        "Author": "Agatha Christie",
+        "Year": 1934,
+        "Read": true
+    },
+    {
+        "Title": "And Then There Were None",
+        "Author": "Agatha Christie",
+        "Year": 1939,
+        "Read": true
+    },
+    {
+        "Title": "The Murder of Roger Ackroyd",
+        "Author": "Agatha Christie",
+        "Year": 1926,
+        "Read": false
+    },
+    {
+        "Title": "Death on the Nile",
+        "Author": "Agatha Christie",
+        "Year": 1937,
+        "Read": true
+    },
+    {
+        "Title": "The ABC Murders",
+        "Author": "Agatha Christie",
+        "Year": 1936,
+        "Read": true
+    },
+    {
+        "Title": "The Mysterious Affair at Styles",
+        "Author": "Agatha Christie",
+        "Year": 1920,
+        "Read": true
+    },
+    {
+        "Title": "Peril at End House",
+        "Author": "Agatha Christie",
+        "Year": 1932,
+        "Read": false
+    },
+    {
+        "Title": "The Hollow",
+        "Author": "Agatha Christie",
+        "Year": 1946,
+        "Read": true
+    },
+    {
+        "Title": "Crooked House",
+        "Author": "Agatha Christie",
+        "Year": 1949,
+        "Read": true
+    },
+    {
+        "Title": "A Game of Thrones",
+        "Author": "George R.R. Martin",
+        "Year": 1996,
+        "Read": true
+    },
+    {
+        "Title": "A Clash of Kings",
+        "Author": "George R.R. Martin",
+        "Year": 1998,
+        "Read": true
+    },
+    {
+        "Title": "A Storm of Swords",
+        "Author": "George R.R. Martin",
+        "Year": 2000,
+        "Read": false
+    },
+    {
+        "Title": "A Feast for Crows",
+        "Author": "George R.R. Martin",
+        "Year": 2005,
+        "Read": true
+    },
+    {
+        "Title": "A Dance with Dragons",
+        "Author": "George R.R. Martin",
+        "Year": 2011,
+        "Read": true
+    },
+    {
+        "Title": "Fevre Dream",
+        "Author": "George R.R. Martin",
+        "Year": 1982,
+        "Read": true
+    },
+    {
+        "Title": "The Armageddon Rag",
+        "Author": "George R.R. Martin",
+        "Year": 1983,
+        "Read": false
+    },
+    {
+        "Title": "Dusklands",
+        "Author": "J.M. Coetzee",
+        "Year": 1974,
+        "Read": true
+    },
+    {
+        "Title": "In the Heart of the Country",
+        "Author": "J.M. Coetzee",
+        "Year": 1977,
+        "Read": true
+    },
+    {
+        "Title": "Waiting for the Barbarians",
+        "Author": "J.M. Coetzee",
+        "Year": 1980,
+        "Read": true
+    },
+    {
+        "Title": "Life & Times of Michael K",
+        "Author": "J.M. Coetzee",
+        "Year": 1983,
+        "Read": false
+    },
+    {
+        "Title": "Foe",
+        "Author": "J.M. Coetzee",
+        "Year": 1986,
+        "Read": true
+    },
+    {
+        "Title": "Age of Iron",
+        "Author": "J.M. Coetzee",
+        "Year": 1990,
+        "Read": true
+    },
+    {
+        "Title": "The Master of Petersburg",
+        "Author": "J.M. Coetzee",
+        "Year": 1994,
+        "Read": true
+    },
+    {
+        "Title": "Disgrace",
+        "Author": "J.M. Coetzee",
+        "Year": 1999,
+        "Read": false
+    },
+    {
+        "Title": "The Catcher in the Rye",
+        "Author": "J.D. Salinger",
+        "Year": 1951,
+        "Read": true
+    },
+    {
+        "Title": "Nine Stories",
+        "Author": "J.D. Salinger",
+        "Year": 1953,
+        "Read": true
+    },
+    {
+        "Title": "Franny and Zooey",
+        "Author": "J.D. Salinger",
+        "Year": 1961,
+        "Read": true
+    },
+    {
+        "Title": "Raise High the Roof Beam, Carpenters and Seymour: An Introduction",
+        "Author": "J.D. Salinger",
+        "Year": 1963,
+        "Read": false
+    },
+    {
+        "Title": "Fahrenheit 451",
+        "Author": "Ray Bradbury",
+        "Year": 1953,
+        "Read": true
+    },
+    {
+        "Title": "The Martian Chronicles",
+        "Author": "Ray Bradbury",
+        "Year": 1950,
+        "Read": true
+    },
+    {
+        "Title": "Something Wicked This Way Comes",
+        "Author": "Ray Bradbury",
+        "Year": 1962,
+        "Read": true
+    },
+    {
+        "Title": "The Illustrated Man",
+        "Author": "Ray Bradbury",
+        "Year": 1951,
+        "Read": false
+    },
+    {
+        "Title": "Dandelion Wine",
+        "Author": "Ray Bradbury",
+        "Year": 1957,
+        "Read": true
+    },
+    {
+        "Title": "Moby-Dick",
+        "Author": "Herman Melville",
+        "Year": 1851,
+        "Read": true
+    },
+    {
+        "Title": "Typee",
+        "Author": "Herman Melville",
+        "Year": 1846,
+        "Read": true
+    },
+    {
+        "Title": "Omoo",
+        "Author": "Herman Melville",
+        "Year": 1847,
+        "Read": false
+    },
+    {
+        "Title": "Pierre: or, The Ambiguities",
+        "Author": "Herman Melville",
+        "Year": 1852,
+        "Read": true
+    },
+    {
+        "Title": "The Confidence-Man",
+        "Author": "Herman Melville",
+        "Year": 1857,
+        "Read": true
+    },
+    {
+        "Title": "Frankenstein",
+        "Author": "Mary Shelley",
+        "Year": 1818,
+        "Read": true
+    },
+    {
+        "Title": "The Last Man",
+        "Author": "Mary Shelley",
+        "Year": 1826,
+        "Read": true
+    },
+    {
+        "Title": "Valperga",
+        "Author": "Mary Shelley",
+        "Year": 1823,
+        "Read": false
+    },
+    {
+        "Title": "Perkin Warbeck",
+        "Author": "Mary Shelley",
+        "Year": 1830,
+        "Read": true
+    },
+    {
+        "Title": "Dracula",
+        "Author": "Bram Stoker",
+        "Year": 1897,
+        "Read": true
+    },
+    {
+        "Title": "The Jewel of Seven Stars",
+        "Author": "Bram Stoker",
+        "Year": 1903,
+        "Read": false
+    },
+    {
+        "Title": "The Lair of the White Worm",
+        "Author": "Bram Stoker",
+        "Year": 1911,
+        "Read": true
+    },
+    {
+        "Title": "The Picture of Dorian Gray",
+        "Author": "Oscar Wilde",
+        "Year": 1890,
+        "Read": true
+    },
+    {
+        "Title": "The Importance of Being Earnest",
+        "Author": "Oscar Wilde",
+        "Year": 1895,
+        "Read": true
+    },
+    {
+        "Title": "Lady Windermere's Fan",
+        "Author": "Oscar Wilde",
+        "Year": 1892,
+        "Read": true
+    },
+    {
+        "Title": "An Ideal Husband",
+        "Author": "Oscar Wilde",
+        "Year": 1895,
+        "Read": false
+    },
+    {
+        "Title": "A Room with a View",
+        "Author": "E.M. Forster",
+        "Year": 1908,
+        "Read": true
+    },
+    {
+        "Title": "Howards End",
+        "Author": "E.M. Forster",
+        "Year": 1910,
+        "Read": true
+    },
+    {
+        "Title": "A Passage to India",
+        "Author": "E.M. Forster",
+        "Year": 1924,
+        "Read": true
+    },
+    {
+        "Title": "Maurice",
+        "Author": "E.M. Forster",
+        "Year": 1971,
+        "Read": false
     }
 ]

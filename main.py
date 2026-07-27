@@ -69,6 +69,7 @@ while True:
         query = library.find(library, title, author, year, read)
         if len(query) < 1:
             print("Nothing Found\n\n")
+        print(" ") # whitespace for formatting
         for i in query:
             print(f"Title: {i.title} | Author: {i.author} | Year: {i.year} | Read: {i.read}\n")
 
