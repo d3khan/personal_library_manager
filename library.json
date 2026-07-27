@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Koemi",
+        "Author": "Clovis Reyes",
+        "Year": 2018,
+        "Read": false
+    },
+    {
+        "Title": "Lacrimosa",
+        "Author": "WA Mozart",
+        "Year": 1988,
+        "Read": true
+    },
+    {
+        "Title": "Goals",
+        "Author": "FIFA",
+        "Year": 2026,
+        "Read": true
+    }
+]
