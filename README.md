@@ -11,7 +11,7 @@ You can install the python installer from the official python website at https:/
 
 **Clone Repo**
 ```bash
-git clone https://github.com/d3khan/personal-library-manager/
+git clone https://github.com/d3khan/personal_library_manager/
 ```
 
 **Unzip and Run**
@@ -19,7 +19,7 @@ git clone https://github.com/d3khan/personal-library-manager/
 Unzip the cloned repo and enter the folder
 
 ```bash
-cd personal-library-manager
+cd personal_library_manager
 ```
 
 Then run the program
