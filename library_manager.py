@@ -31,9 +31,12 @@ class Library:
 
     shelf = [Book]
     shelf.clear() # to remove junk
+    space_size = 0
 
     def __init__(self):
-        pass
+        for i in self.shelf:
+            if self.space_size < len(i.title):
+                self.space_size = len(i.title)
 
     def as_array(self):
         cache = [i.as_dict() for i in self.shelf]
@@ -64,13 +67,16 @@ class Library:
     def display_all(self):
         '''Shows all books in this library'''
 
+        # space = self.space_size # I don't know how to use a variable to format f-strings
         if len(self.shelf) < 1:
             print("This library is empty\n\n")
         
-        print("\nTitle | Author | Year | Read")
+        helper_var = " "
+        print(f"\nTitle{helper_var:65} | Author{helper_var:29} | Year{helper_var}| Read{helper_var}")
         for i in self.shelf:
-            print(f"{i.title} | {i.author} | {i.year} | {i.read}\n")
+            print(f"{i.title:70} | {i.author:35} |{i.year:5} | {i.read}\n")
             # I don't know how to format it properly
+            # I now do
     
     def stats(self):
         read = 0

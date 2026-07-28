@@ -69,9 +69,11 @@ while True:
         query = library.find(library, title, author, year, read)
         if len(query) < 1:
             print("Nothing Found\n\n")
-        print(" ") # whitespace for formatting
+
+        helper_var = " "
+        print(f"\nTitle{helper_var:65} | Author{helper_var:29} | Year{helper_var}| Read{helper_var}")
         for i in query:
-            print(f"Title: {i.title} | Author: {i.author} | Year: {i.year} | Read: {i.read}\n")
+            print(f"{i.title:70} | {i.author:35} |{i.year:5} | {i.read}\n")
 
     if option == 2:
         print("Fill in the filters \nLeave empty to not add that filter")
